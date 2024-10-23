@@ -1,0 +1,40 @@
+Udemy
+
+SQL and PostgreSQL: The Complete Developer's Guide 					24 hrs
+100 Days of Code: The Complete Python Pro Bootcamp					60 hrs
+100 Days Of Code - 2024 Web Development Bootcamp					80 hrs
+Build Web Apps with React & Firebase							24 hrs
+Typescript: The Complete Developer's Guide						30 hrs
+Python for Machine Learning & Data Science Masterclass					50 hrs
+Djangoflix										12 hrs
+
+
+Youtube
+
+React Crash Course 2024 - Traversy Media						04 hrs
+Redux - FCC										02 hrs
+Tailwind CSS Tutorial - Net Ninja							02 hrs
+Complete MongoDB Tutorial - Net Ninja							04 hrs
+Bootstrap 5 Tutorial - Net Ninja							04 hrs
+Django Airbnb clone -Stein								16 hrs
+React Spotify clone									03 hrs
+Django - Net Ninja									05 hrs
+Reflex - Cfe										10 hrs
+
+
+Priority list
+1. SQL and PostgreSQL: The Complete Developer's Guide 					24 hrs
+2. 100 Days of Code: The Complete Python Pro Bootcamp					60 hrs
+3. Build Web Apps with React & Firebase							24 hrs
+4. React Crash Course 2024 - Traversy Media						04 hrs
+5. Redux - FCC										02 hrs
+6. React 25 projects - FCC								12 hrs
+7. React Spotify clone									03 hrs
+8. Django - Net Ninja									05 hrs
+9. Djangoflix										12 hrs
+10. Reflex - Cfe									10 hrs
+11. Shadcn/ui - FCC									03 hrs
+12. React Hook Form - FCC								04 hrs
+13. Practical Typescript - FCC								10 hrs
+14. Typescript: The Complete Developer's Guide						30 hrs
+15. 
